@@ -1,0 +1,16 @@
+# JD Quality Checklist (15 points)
+- [ ] Clear title and level
+- [ ] 2–3 line business summary
+- [ ] 5–6 responsibilities, outcome-focused
+- [ ] Mandatory skills listed as nouns (Boolean-ready)
+- [ ] Secondary skills separated from mandatory
+- [ ] Tech/tools spelled with common synonyms
+- [ ] Location / shift / visa info clear
+- [ ] Contract details (tenure, extend/convert) or FTE details (CTC bands optional)
+- [ ] Interview process steps
+- [ ] Must-have domain knowledge (if any)
+- [ ] Hard exclusions captured
+- [ ] Sample Boolean string included
+- [ ] Screening questions added
+- [ ] Version/date owner noted
+- [ ] Stakeholder sign-off
